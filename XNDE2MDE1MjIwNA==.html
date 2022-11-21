@@ -1,0 +1,165 @@
+<!doctype html>
+<!DOCTYPE html><html><head><meta charset="utf-8">
+  <title>优酷视频云</title>
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=11">
+  <style>
+    html,
+    body {
+      height: 100%;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      overflow-x: hidden;
+      overflow-y: hidden;
+    }
+    @media screen and (max-width: 421px) {
+      .h5-control-wrap .control-quality-icon {
+        display: none !important;
+      }
+    }
+
+    @media screen and (max-width: 386px) {
+      .h5-control-wrap .control-volume-icon {
+        display: none !important;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div id="youku-playerBox" style="width:100%;height:100%;"></div>
+  <script id="_youkujs_" type="text/javascript"></script>
+  <script type="text/javascript" src="js/iframeapi.js"></script>
+  <!-- <script src="//g.alicdn.com/player/player-collina/0.0.2/player-collina.min.js"></script> -->
+  <script language="javascript">
+    function QS() {
+      var args = {};
+      var result = window.location.search.match(new RegExp("[\?\&][^\?\&]+=[^\?\&]+", "g"));
+      if (result != null) {
+        for (var i = 0; i < result.length; i++) {
+          var ele = result[i];
+          var inx = ele.indexOf("=");
+          var key = ele.substring(1, inx);
+          var val = ele.substring(inx + 1);
+          try {
+            val = decodeURI(val);
+          } catch (e) {
+
+          }
+
+          val == "true" ? val = true : (val == "false" ? val == false : isNaN(val) ? val = parseJsonStr(val) : val = +val);
+          if ('undefined' == typeof args[key]) {
+            args[key] = val;
+          } else {
+            if (args[key] instanceof Array) {
+              args[key].push(val);
+            } else {
+              args[key] = [args[key], val];
+            }
+          }
+        }
+      }
+      return args;
+    }
+    var _QS = QS();
+    var arr = window.location.pathname.split('/');
+    var _vid = 0;
+    if (arr.length == 3 && arr[1] == 'embed' && arr[2].charAt(0) == 'X') {
+      _vid = arr[2];
+    }
+    if (_QS.target == null) _QS.target = "youku-playerBox";
+    if (_QS.client_id == null) _QS.client_id = "0edbfd2e4fc91b72"; //"youkuind_";
+    if (_QS.autoplay != true) _QS.autoplay = false;
+    if (_QS.isAutoplayMute != true) _QS.isAutoplayMute = false
+
+    window.onload = function() {
+      var player = new YKU.Player('youku-playerBox', {
+        styleid: '0',
+        client_id: _QS.client_id,
+        vid: _vid,
+        autoplay: _QS.autoplay,
+        password: _QS.password,
+        isAutoplayMute: _QS.isAutoplayMute,
+        onPlayStart: _QS.onPlayStart,
+        onPlayEnd: _QS.onPlayEnd,
+        doubleSpeed: _QS.doubleSpeed,
+        //ckey:_collina.getCkey()
+      });
+      window.xxxx=player;
+    };
+
+    // window.addEventListener('message',function(e){
+    //     var data = e.data;
+    //     switch (data.msg){
+    //         case "onPlayerReady":{
+    //             break;
+    //         }
+    //         case "onPlayEnd":{
+    //             onPlayEnd();
+    //             break;
+    //         }
+    //         case 'onTimeUpdate':{
+    //             //document.getElementsByTagName('video')[0].muted=true;
+    //             console.info(data.time);
+    //             break;
+    //         }
+    //         case "state":{
+    //             var state = data.stateParam;
+    //             console.info(state);
+    //             break;
+    //         }
+    //     }
+    // },false);
+
+    // const loaclSeter = YoukuPlayerRecord.getPersonInfo();
+    // //获取本地设置
+    // if (!loaclSeter) {
+    //     return;
+    // }
+    // if (typeof (this.initConfig.skip) === 'undefined') {
+    //     this._config.skip = loaclSeter.skip;
+    // }
+    //当页面加载状态改变的时候执行这个方法.
+
+    // const YoukuPlayerRecord = {
+    //     storageKey: 'YK_PSL_RECORDS',
+    //     data: [],
+    //     count: 0,
+    //     setItem(item){
+    //         try {
+    //             if (Math.abs(this.data[this._index].time - item.time) * 1000 < 1000){
+    //                 return;
+    //             }
+    //             for (const key in item){
+    //                 this.data[this._index][key] = item[key];
+    //             }
+    //             localStorage.setItem(this.storageKey, JSON.stringify(this.data));
+    //         } catch (e){
+    //             console.log('localStorage is not support');
+    //         }
+    //         try {
+    //             localStorage.setItem(this.storageKey, JSON.stringify(this.data));
+    //         } catch (e){
+    //             console.log('is not support localStorage');
+    //         }
+    //     },
+    //     getPersonInfo() {
+    //         try {
+    //             const _json = localStorage.getItem('YK_PSL_SETTINGS');
+    //             return _json ? JSON.parse(_json) : null;
+    //         } catch (e) {
+    //             return null;
+    //         }
+    //     }
+    // }
+  </script>
+
+
+
+</body></html>

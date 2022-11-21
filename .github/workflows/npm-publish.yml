@@ -1,0 +1,23 @@
+name: Publish to npm
+
+on:
+  push:
+# 检测到有push则执行action
+
+jobs:
+  publish-to-npm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout release branch code
+        uses: actions/checkout@v3
+
+      - name: Use Node.js
+        uses: actions/setup-node@master
+        with:
+          node-version: ${{ matrix.node-version }}
+          registry-url: https://registry.npmjs.org
+
+      - name: Publish to NPM
+        run: npm publish || true
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}

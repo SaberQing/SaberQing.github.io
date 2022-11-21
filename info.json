@@ -1,0 +1,1083 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://www.zzfls.com.cn/",
+            "path": "index.html",
+            "saved": true,
+            "size": 30012,
+            "children": [
+                {
+                    "url": "http://www.zzfls.com.cn/staticfile/upload/fmtp/20210428/1619598043194.JPG",
+                    "path": "img/1619598043194.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/staticfile/upload/fmtp/20210428/1619598970266.JPG",
+                    "path": "img/1619598970266.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/staticfile/upload/fmtp/20210329/1617006659337.jpg",
+                    "path": "img/1617006659337.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/staticfile/upload/fmtp/20210329/1617006692056.jpg",
+                    "path": "img/1617006692056.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/staticfile/upload/fmtp/20210329/1616998599944.jpg",
+                    "path": "img/1616998599944.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/staticfile/upload/fmtp/20210329/1617006722669.jpg",
+                    "path": "img/1617006722669.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/staticfile/upload/fmtp/20210329/1616985276620.jpg",
+                    "path": "img/1616985276620.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/staticfile/upload/fmtp/20210329/1616986149057.png",
+                    "path": "img/1616986149057.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/website/images/zhengwairen.png;jsessionid=800C2A37C70FC9A3F05E7525FAFEFDDD",
+                    "path": "img/zhengwairen.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/website/images/weixin.png;jsessionid=800C2A37C70FC9A3F05E7525FAFEFDDD",
+                    "path": "img/weixin.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/website/images/blue.png;jsessionid=800C2A37C70FC9A3F05E7525FAFEFDDD",
+                    "path": "img/blue.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/website/images/baidu.gif;jsessionid=800C2A37C70FC9A3F05E7525FAFEFDDD",
+                    "path": "img/baidu.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/website/js/jquery-1.8.3.min.js;jsessionid=800C2A37C70FC9A3F05E7525FAFEFDDD",
+                    "path": "js/jquery-1.8.3.min.js",
+                    "saved": true,
+                    "size": 93682,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/commons/js/Swiper/v2/idangerous.swiper.min.js;jsessionid=800C2A37C70FC9A3F05E7525FAFEFDDD",
+                    "path": "js/idangerous.swiper.min.js",
+                    "saved": true,
+                    "size": 46354,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/website/css/public.css;jsessionid=800C2A37C70FC9A3F05E7525FAFEFDDD",
+                    "path": "css/public.css",
+                    "saved": true,
+                    "size": 98898,
+                    "children": [
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/add-ico.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/tag01.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/selectIco.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/a_close.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/page_ico.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/space/images/del.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/apparrow-l.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/apparrow-l-gray.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/apparrow-r.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/apparrow-r-gray.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/btn-loading.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/btn-blue-r.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/btn-blue-l.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/btn-gray-r.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/btn-gray-l.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/tips.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/doc_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/pdf_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/file_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/html_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/ppt_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/image_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/movie_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/music_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/txt_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/xls_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/zip_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/bkexe_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/default_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/edu_small.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/star_all.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/star_2.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/star_1.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/star2_r.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/star2_l.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/starbig_2.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/starbig_1.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/radio.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/radio01.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/radio02.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/checkbox.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/refreshIco.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/manage-ico.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/h3_bg-1.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/backIcoBG.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/addIco.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/space/images/active_bt_bj.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/tabBG1.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/radio-0.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/radio-1.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/checkbox-0.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/i.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/manage.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/control-tips-normal.png?",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/control-tips-hover.png?",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/spaceBg2014.jpg?",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/true1.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/myHomePage.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/optationIcon.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/indexBtnIco.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/layout_ico.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/notice_bg.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/bbg.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/spaceBg.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/bg-1.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/bg-3.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/bg-2.gif?",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/bg-1x2000.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/sele_down.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/h_arrow.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/h_icon.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/bficon.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/close.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/close_hover.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/upbtn.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/uploading.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/uploading_btn.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/login_a.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/login_boxbg.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/ts_img.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/inpbg.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/loading16_16.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/loading.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/syslogo.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/voic2.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/voic1.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/cf_icon_top.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/loginbox_bg.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/loginbg.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/loading_w.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/answer_arrow.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/z_space/icon_rankCity3_2016.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/z_space/icon_rankCity1_2016.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/z_space/icon_rankCity2_2016.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/z_space/icon_rankCity3_2017.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/z_space/icon_rankCity1_2017.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/z_space/icon_rankCity2_2017.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/z_space/icon_rankCity_2018.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/z_space/icon_rankProvince_2018.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/z_space/icon_rankPart_2018.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/doc.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/edu.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/file.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/default.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/image.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/music.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/pdf.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/ppt.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/xls.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/txt.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/zip.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/movie.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/html.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/resource_icon/bkexe.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/icon_rankCity_2019.png",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/website/css/template.css;jsessionid=800C2A37C70FC9A3F05E7525FAFEFDDD",
+                    "path": "css/template.css",
+                    "saved": true,
+                    "size": 95150,
+                    "children": [
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/layertopleft.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/layertop.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/layertopright.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/layerleft.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/layerright.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/layerbotleft.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/layerbot.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/layerbotright.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/layermax1.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/layermax2.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/layerclose.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/background.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/logo.png",
+                            "path": "img/logo.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/adminlogo.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/toleft.png",
+                            "path": "img/toleft.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/toright.png",
+                            "path": "img/toright.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/layerbg.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/dot.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/newsdot.png",
+                            "path": "img/newsdot.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/link1.png",
+                            "path": "img/link1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/link2.png",
+                            "path": "img/link2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/link3.png",
+                            "path": "img/link3.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/link4.png",
+                            "path": "img/link4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/link5.png",
+                            "path": "img/link5.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/link6.png",
+                            "path": "img/link6.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/link7.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/link8.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/icon.png",
+                            "path": "img/icon.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/icon_index.png",
+                            "path": "img/icon_index.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/icon_bigmark.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/icon_mark.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/icon_mark_on.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/icon_li.png",
+                            "path": "img/icon_li.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/ico/page_ico.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/sliderTBtn.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/login_ico.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/icon_tit2.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/bg_president.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/mailer.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/visitor.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/schCrumb.png",
+                            "path": "img/schCrumb.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/btn.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/btn2.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/btn3.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/btn4.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/btn_big.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/loading2.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/goodbtn.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/tools-2.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/cf_down.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/cf_up_more.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/up-d-icon.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/res/sele_down.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/searchBtn.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/res/qjf_star_h.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/res/qjf_star_r.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/nums.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/cf_icon01.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/yuan.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/scicon.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/yz_icon.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/loading.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/kicon.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/writeLetter.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/icon_bg.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/dz_img.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/fraw.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/loading_w.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/top_tb.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/close.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/closehov.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/top_sq.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/ck_yt.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/stu_tit.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/zicon.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/a_ico.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/avatar.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/arrow.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/pub_icon.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/py_numbg.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/add_icon.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/loading_green.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/bg_colum.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/radio02.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/up-d-icon.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/icon_tag.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/btn_play.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/ni_ico_list.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/ni_ico_mail.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/ni_bg_yy.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/ni_lf_ico.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.zzfls.com.cn/website/images/helper01.png",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/commons/js/Swiper/v2/idangerous.swiper.css;jsessionid=800C2A37C70FC9A3F05E7525FAFEFDDD",
+                    "path": "css/idangerous.swiper.css",
+                    "saved": true,
+                    "size": 3137,
+                    "children": []
+                },
+                {
+                    "url": "http://www.zzfls.com.cn/website/images/xh.png;jsessionid=800C2A37C70FC9A3F05E7525FAFEFDDD",
+                    "path": "other/xh.png;jsessionid=800C2A37C70FC9A3F05E7525FAFEFDDD",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://player.youku.com/embed/XNDE2MDE1MjIwNA==",
+                    "path": "XNDE2MDE1MjIwNA==.html",
+                    "saved": true,
+                    "size": 4891,
+                    "children": [
+                        {
+                            "url": "http://player.youku.com/iframeapi",
+                            "path": "js/iframeapi.js",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "www-zzfls-com-cn-0wz0tqah",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://player.youku.com/embed/XNDE2MDE1MjIwNA==",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "http://www.zzfls.com.cn/",
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Wed, 01 Sep 2021 13:33:43 GMT",
+                "content-type": "text/html;charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "set-cookie": [
+                    "JSESSIONID=800C2A37C70FC9A3F05E7525FAFEFDDD; Path=/; HttpOnly"
+                ],
+                "content-language": "zh-CN"
+            }
+        },
+        "time": {
+            "start": "2021-09-01T13:33:40.512Z",
+            "end": "2021-09-01T13:34:27.868Z"
+        },
+        "remark": [],
+        "ip": "120.27.12.192",
+        "url": "http://www.zzfls.com.cn/",
+        "main": "index.html",
+        "domain": "www.zzfls.com.cn",
+        "origin": "http://www.zzfls.com.cn",
+        "totalSize": "372 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "http://www.zzfls.com.cn/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
