@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+body {background:#fff;
+font-family:"宋体", Arial;
+font-size:12px;
+}
+body, div {margin:0px;padding:0px;border:0px;font-family:宋体;font-size:12px;}
+p,img {margin:0px;
+	padding:0px;
+	border:0px;
+}
+.fl {float:left;
+}
+.fr {float:right;
+}
+.clear {clear:both;
+}
+.yahei {font-family:Microsoft yahei,微软雅黑,Arial,Verdana,Tahoma,sans-serif;
+}
+#wrapper{
+height:2200px;
+background:#fff;
+text-align:center;}
+#wrapper .texts{
+background:#ccffff;
+width:940px;
+height:2000px;
+margin:0 auto;
+text-align:left;
+}
+#wrapper .banner{}
+.main .kc{
+height:235px;}
+.top_kong{
+height:20px;}
+.top_kong1{
+height:10px;}
+.top_kong2{
+height:5px;}
+.main .kc .kc_text{
+padding:0 15px;
+height:157px;}
+.main .kc .nr{
+width:487px;
+color:#333333;
+line-height:20px;
+text-indent:24px;
+}
+.main .ys{
+height:306px;}
+.main .ys .ys_text{
+padding:0 15px;
+height:245px;}
+.main .ys .ys_text .text1{
+width:489px;}
+.main .ys .ys_text .text2{
+width:394px;}
+.main .ys .ys_text .bt{
+padding-left:10px;
+background:url("../../../../statics/space/images/zzwg/wgy/images/hk.gif")/*tpa=http://www.zzfls.com.cn/statics/space/images/zzwg/wgy/images/hk.gif*/ no-repeat 0 0;
+font-size:14px;
+font-weight:800;
+color:#333333;}
+.main .ys .ys_text p{
+text-indent:24px;
+line-height:20px;
+color:#333333;}
+.main .imgs .img_bg{
+background:#b2eefe;}
+.main .imgs .img_bg .jz{
+text-align:center;}
+.main .wd{
+height:600px;}
+.main .wd .wd_text{
+padding:0 15px;}
+.main .wd .wd_text .text3 .bt{
+font-size:14px;
+font-weight:800;
+color:#0066cc;}
+.main .wd .wd_text .text3 p{
+text-indent:24px;
+line-height:20px;
+color:#333333;}
+.zs .zs_text{
+
+padding:0 15px;}
+.zs .zs_text .text4{
+width:550px;}
+.zs .zs_text .text4 .xx{
+font-size:14px;
+color:#0066FF;
+}
+.zs .zs_text span{
+font-weight:800;}
+.zs .zs_text .text4 .xx p{
+line-height:22px;
+text-indent:24px;}
+.footer{
+height:200px;
+background:#336699;
+text-align:center;
+color:#FFFFFF;}
+
