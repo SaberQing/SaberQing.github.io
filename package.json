@@ -1,6 +1,6 @@
 {
   "name": "zzcls",
-  "version": "2.0.0",
+  "version": "1.0",
   "description": "[![HknxQs.png](https://s4.ax1x.com/2022/02/01/HknxQs.png)](https://zh.wikipedia.org/zh-cn/User:PexEric/%E9%83%91%E5%B7%9E%E4%B8%AD%E5%9B%BD%E8%AF%AD%E5%AD%A6%E6%A0%A1)",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PexEric/ZZCLS.git"
+    "url": "git+https://SaberQing/SaberQing.github.io.git"
   },
   "author": "SuberQing and Muamu925",
   "license": "ISC",
