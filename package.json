@@ -1,0 +1,19 @@
+{
+  "name": "zzfls",
+  "version": "1.0.0",
+  "description": "zzfls",
+  "main": "index.js",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaberQing/SaberQing.github.io.git"
+  },
+  "author": "Muamu925",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaberQing/SaberQing.github.io/issues"
+  },
+  "homepage": "https://github.com/SaberQing/SaberQing.github.io#readme"
+}
