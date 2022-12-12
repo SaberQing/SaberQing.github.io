@@ -4,10 +4,9 @@
   "version": "1.0.0",
   "description": "zzfls",
 =======
-  "name": "zzcls",
-  "version": "1.0",
-  "description": "[![HknxQs.png](https://s4.ax1x.com/2022/02/01/HknxQs.png)](https://zh.wikipedia.org/zh-cn/User:PexEric/%E9%83%91%E5%B7%9E%E4%B8%AD%E5%9B%BD%E8%AF%AD%E5%AD%A6%E6%A0%A1)",
->>>>>>> 55ef5d586a358ec2475ea0a3a252a4fd0b0e0f8e
+  "name": "zzfls",
+  "version": "4.0.2",
+  "description": ""
   "main": "index.js",
   "scripts": {
     "test": "1"
